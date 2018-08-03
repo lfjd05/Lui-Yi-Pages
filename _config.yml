@@ -1,6 +1,6 @@
 # Site settings
 title: Yi Lui's Blog
-url: "http://lfjd05.github.io/Lui-Yi-Pages/home"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
+url: "https://lfjd05.github.io/Lui-Yi-Pages/home"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
 baseurl: "/Lui-Yi-Pages" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
 #timezone: Asia/Shanghai
 description: 个人博客，分享关于Python学习，深度学习等相关的知识。
