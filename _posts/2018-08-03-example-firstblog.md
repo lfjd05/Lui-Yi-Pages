@@ -5,4 +5,4 @@ I appreciate the author in Jekyll gave me the excellent blog template.<br>
 
 Several days latter, I'll transport some works in Wechat subscription.<br>
 Here is my favourite work -- a Mobile telecontrol car.<br>
-![](https://https://github.com/lfjd05/Lui-Yi-Pages/images/car.png)
+![](https://github.com/lfjd05/Lui-Yi-Pages/raw/gh-pages/imges/car.png)
