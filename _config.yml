@@ -1,23 +1,23 @@
 # Site settings
 title: Yi Lui's Blog
-url: "http://zhaoyuxiang.cn/blog"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
-baseurl: "/bohu-jekyll-theme" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
+url: "http://lfjd05/Lui-Yi-Blogs/home"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
+baseurl: "/Lui-Yi-Blogs" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
 #timezone: Asia/Shanghai
-description: 天道总司的个人博客网站,前端HTML、HTML5、CSS、CSS3、JavaScript、JQuery等编程经验总结分享。
+description: 个人博客，分享关于Python学习，深度学习等相关的知识。
 # Your information
 email: me@zhaoyuxiang.cn
 author: Yi Lui #yourname #天道总司
-place: yourhometown #杭州
-domain: yourdoamain #互联网
-company: yourcompany #Jeeyoo
-position: yourjob #Technical Support
-school: yourschool #浙江科技学院
-major: yourmajoy #测控技术与仪器
-resume: "http://zhaoyuxiang.cn/cv"
-profile: Time is money. #yourmotto #聪明在于勤奋，天才在于积累。
-twitter_username: zyx19936688
-weibo_username:  zhaoyuxiang
-github_username:  Clark-Zhao
+place: Beijing #杭州
+domain: #互联网
+company: #Jeeyoo
+position: Deep Learning Engineer #Technical Support
+school: Beijing University of Technology #浙江科技学院
+major: #测控技术与仪器
+resume:
+profile: Your mediocrity is the moment you give up the belief of excellence. #yourmotto #聪明在于勤奋，天才在于积累。
+twitter_username: @lfjd2017
+weibo_username:  
+github_username:  lfjd05
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
