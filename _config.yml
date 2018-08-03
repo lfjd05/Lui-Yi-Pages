@@ -1,11 +1,11 @@
 # Site settings
 title: Yi Lui's Blog
-url: "http://lfjd05/Lui-Yi-Blogs/home"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
-baseurl: "/Lui-Yi-Blogs" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
+url: "http://lfjd05.github.io/Lui-Yi-Pages/home"    # the protocol and hostname of your site, eg. `http://zhaoyuxiang.cn/blog`
+baseurl: "/Lui-Yi-Pages" # the prefix of your site uri, eg. `/bohu-jekyll-theme` or just one slash `/`
 #timezone: Asia/Shanghai
 description: 个人博客，分享关于Python学习，深度学习等相关的知识。
 # Your information
-email: me@zhaoyuxiang.cn
+email:
 author: Yi Lui #yourname #天道总司
 place: Beijing #杭州
 domain: #互联网
@@ -15,13 +15,13 @@ school: Beijing University of Technology #浙江科技学院
 major: #测控技术与仪器
 resume:
 profile: Your mediocrity is the moment you give up the belief of excellence. #yourmotto #聪明在于勤奋，天才在于积累。
-twitter_username: @lfjd2017
+twitter_username: '@lfjd2017'
 weibo_username:  
 github_username:  lfjd05
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
-disqus_shortname: zhaoyuxiang   
+disqus_shortname:
 # get one: https://disqus.com/admin/signup/
 # duoshuo_shortname: clark-zhao  
 # get one: http://duoshuo.com/create-site/
